@@ -1,0 +1,1 @@
+wmic process where name="vina.exe" CALL setpriority 64
